@@ -1,0 +1,24 @@
+.homeTransition-appear {
+    opacity: 0;
+}
+
+.homeTransition-appear.homeTransition-appear-active {
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+}
+
+#aboutMe {
+    text-align: center;
+    height: 90vh;
+    background-color: rgba(0, 21, 59, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pp {
+    font-family: 'Montserrat';
+    font-size: 5vh;
+    color: #FFF;
+}
+

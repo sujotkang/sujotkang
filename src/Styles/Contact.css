@@ -1,0 +1,24 @@
+.contactTransition-appear {
+    opacity: 0;
+}
+
+.contactTransition-appear.contactTransition-appear-active {
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+}
+
+/* #contact {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 15vh;
+    margin-left: 20vh;
+    flex-direction: column;
+}
+
+
+
+#github {
+    width: 6vh;
+    margin-top: 3vh;
+} */

@@ -1,0 +1,75 @@
+.portfolioTransition-appear {
+    opacity: 0;
+}
+
+.portfolioTransition-appear.portfolioTransition-appear-active {
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+}
+
+.title {
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+}
+
+.square {
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-bottom: 10vh;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.3);
+
+}
+
+.square:hover {
+    box-shadow: 0 0 1rem 0 rgba(255, 255, 255, 0.2)
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10vh;
+}
+
+
+p {
+    text-align: center;
+    font-weight: 200;
+}
+
+
+a.portButt {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+
+
+.twoButt {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#mundo {
+    text-align: center;
+}
+
+@media all and (max-width: 1920px) {
+    .square {
+        margin-left: 20vh;
+        margin-right: 20vh;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    .square {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
