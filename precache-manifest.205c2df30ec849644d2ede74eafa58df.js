@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sujotkang/static/js/runtime~main.b0e8455b.js"
   },
   {
-    "revision": "8042f36c272f6b0dce6cdef6769f1ff6",
+    "revision": "3fb6fa6596d6e4c5bc0b1c6d0a8d170e",
     "url": "/sujotkang/index.html"
   }
 ];
