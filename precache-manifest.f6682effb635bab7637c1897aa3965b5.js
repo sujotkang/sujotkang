@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "357545de90fb9f239dbf",
+    "revision": "bb92194ebf3fd5f43ef0",
     "url": "/sujotkang/static/css/main.f0f71bd4.chunk.css"
   },
   {
-    "revision": "357545de90fb9f239dbf",
-    "url": "/sujotkang/static/js/main.357545de.chunk.js"
+    "revision": "bb92194ebf3fd5f43ef0",
+    "url": "/sujotkang/static/js/main.bb92194e.chunk.js"
   },
   {
     "revision": "c2fa5ea3eb295de8d023",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sujotkang/static/js/runtime~main.b0e8455b.js"
   },
   {
-    "revision": "3fb6fa6596d6e4c5bc0b1c6d0a8d170e",
+    "revision": "a910449921e12a7dd7e830311c2fceb6",
     "url": "/sujotkang/index.html"
   }
 ];
